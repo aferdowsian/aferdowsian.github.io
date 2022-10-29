@@ -1,0 +1,27 @@
+baseURL = 'https://aaandrew152.github.io/'
+languageCode = 'en-us'
+title = 'Andrew Ferdowsian'
+theme = "m10c"
+
+[params]
+	description = 'Princeton Job Market Candidate Market Design'
+	author = 'Andrew Ferdowsian'
+	avatar = 'profilePic.jpg'
+	favicon = false
+	
+[menu]
+	[[menu.main]]
+		name = 'Contact'
+		url = '/pages/contact'
+		
+	[[menu.main]]
+		name = 'Teaching'
+		url = '/pages/teaching'
+		
+	[[menu.main]]
+		name = 'Research'
+		url = '/pages/research'
+		
+	[[menu.main]]
+		name = 'CV'
+		url = 'https://www.dropbox.com/s/gc8ulyjh60a33ap/AF-CV.pdf?dl=0'
