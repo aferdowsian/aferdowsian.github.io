@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Andrew Ferdowsian</title>
-    <link>https://aferdowsian.github.io/pages/</link>
+    <link>https://ferdowsian.net/pages/</link>
     <description>Recent content in Pages on Andrew Ferdowsian</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aferdowsian.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ferdowsian.net/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://aferdowsian.github.io/pages/contact/</link>
+      <link>https://ferdowsian.net/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aferdowsian.github.io/pages/contact/</guid>
+      <guid>https://ferdowsian.net/pages/contact/</guid>
       <description>Email: A[dot]Ferdowsian[at]princeton.edu
 Phone: (650) 575-3855</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://aferdowsian.github.io/pages/research/</link>
+      <link>https://ferdowsian.net/pages/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aferdowsian.github.io/pages/research/</guid>
+      <guid>https://ferdowsian.net/pages/research/</guid>
       <description>Working Papers (JMP) Learning through Transient Matching in Congested Markets, 2022
 Build to Order: Endogenous Supply in Centralized Mechanisms, 2022, joint with Kwok Hao Lee and Luther Yap
 Decentralized Matching with Aligned Preferences, 2022, joint with Leeat Yariv and Muriel Niederle
@@ -31,10 +31,10 @@ Completed Papers DyPy: A Python Library for Simulating Matrix-Form Games, 2020, 
     
     <item>
       <title>Teaching</title>
-      <link>https://aferdowsian.github.io/pages/teaching/</link>
+      <link>https://ferdowsian.net/pages/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aferdowsian.github.io/pages/teaching/</guid>
+      <guid>https://ferdowsian.net/pages/teaching/</guid>
       <description>Princeton University. Preceptor (2019 - current) Served as preceptor for:
 Graduate microeconomics: Topics included - Decision Theory, Game Theory, Mechanism Design, and Information Design Intermediate microeconomics Graduate matching markets Graduate political economy Harvard University. Teaching Fellow (2015 - 2017) Served as teaching fellow for:
 Social Behavior and Game Theory The Invisible Hand In addition to standard duties, also collaborated with faculty to develop course materials including homework, final, and lecture slides.</description>
